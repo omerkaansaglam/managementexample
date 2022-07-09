@@ -1,6 +1,6 @@
 # managementexample
 
-A new Flutter project.
+Cubit & Firebase management app
 
 ## Getting Started
 
